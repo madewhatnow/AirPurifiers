@@ -14,7 +14,7 @@
 #define SENSOR_PIN 9
 
 
-// PWM control pin is connected to pin 8. Blue wire on Noctua fans. 
+// PWM control pin is connected to pin 9. Blue wire on Noctua fans. 
 
 #define PWM_PIN 9
 
